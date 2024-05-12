@@ -1,0 +1,119 @@
+{
+    "features": [
+        {
+            "Location": "The Greens by Norwest",
+            "name": "snla1kb0a",
+            "Lat": -33.729,
+            "Lon": 150.964,
+            "Description": "Mulpha's $1billion masterplanned residential planning proposal for The Greens – 40 Solent Circuit, Norwest - has received approval and started the construction during 2021.",
+            "Temp": 30,
+            "Humidity": 50     
+        },
+        {
+            "Location": "Bella Vista Farm",
+            "name": "snla1kb02",
+            "Lat": -33.74278,
+            "Lon": 150.95375,
+            "Description": "Bella Vista Farm, located at Elizabeth Macarthur Drive, Bella Vista. It is an historic farm complex of cultural significance to the nation. Established in the late 1700s, the complex features a two storey homestead, Bunya Pine lined driveway and various farm outbuildings set on a prominent hilltop. It provides a rare surviving link between the community today, the first European settlers and some of Australia's earliest rural development. This site also represents a microclimate reference due to natural land covers.",
+            "Temp": 30,
+            "Humidity": 50,
+            "Rain": 3,
+            "Wind": 2,
+            "Solar": 0.8,
+            "UV": 10,
+            "UTCI": 37,
+            "OC": 20
+        },
+        {
+            "Location": "Norwest Marketown",
+            "name": "mulphaict",
+            "Lat": -33.734,
+            "Lon": 150.963,
+            "Description": "In close proximity to Norwest Business Park and Hillsong Church, Norwest Marketown is a busy destination for retail and dining in Norwest area. It resembles a commercial built environment with",
+            "Temp": 30,
+            "Humidity": 50,
+            "Rain": 3,
+            "Wind": 2,
+            "Solar": 0.8
+        },
+        {
+            "Location": "Lindenwood Estate",
+            "name": "snla1kb01",
+            "Lat": -33.73815,
+            "Lon": 150.95668,
+            "Description": "Lindenwood Estate is a residential area in Norwest NSW with a compact low-rise local climate zone.",
+            "Temp": 32,
+            "Humidity": 55,
+            "Rain": 3,
+            "Wind": 3,
+            "Solar": 0.6,
+            "UV": 7,
+            "UTCI": 28,
+            "OC": 15
+        },
+        {
+            "Location": "Bella Vista Railway Station",
+            "name": "snla1kb07",
+            "Lat": -33.73252,
+            "Lon": 150.94517,
+            "Description": "Bella Vista Railway Station is a newly developed metro station with high foot traffic in the area and significant urban development that modifies local microclimate.",
+            "Temp": 32,
+            "Humidity": 50
+        },
+        {
+            "Location": "Free Settlers' drive & Detention Basin",
+            "name": "snla1kb09",
+            "Lat": -33.72604,
+            "Lon": 150.94719,
+            "Description": "This area represent san open low-rise local climate zone with moderate replacement of natural environments with built materials.",
+            "Temp": 32,
+            "Humidity": 60
+        },
+        {
+            "Location": "Norwest Main Lake",
+            "name": "snla1kb05",
+            "Lat": -33.7315,
+            "Lon": 150.96464,
+            "Description": "The Norwest lake is located at the heart of Norwest new urban developments and surrounded by walking trails and cycle-ways, a range of lakeside cafes and restaurants, and a host of facilities (including an ice skating rink, swimming school, banks, a medical centre, childcare and a shopping centre).This site represent a built environment with a balanced representation of natural land covers that can mitigate urban heat challenges.",
+            "Temp": 33,
+            "Humidity": 57
+        },
+        {
+            "Location": "CircaRetail Shopping Centre",
+            "name": "snla1kb04",
+            "Lat": -33.74526,
+            "Lon": 150.95221,
+            "Description": "CircaRetail Shopping Centre is a smart and stylish centre, featuring a selection of stores, a food court, restaurants, and medical centre.The shopping centre is considered as a high-traffic urban site influenced by car and commercial heat wastes and pollutants.",
+            "Temp": 29,
+            "Humidity": 40
+        },
+        {
+            "Location": "Edgewater Dr. Creek - Vegetated Walkway",
+            "name": "snla1kb08",
+            "Lat": -33.73494,
+            "Lon": 150.95643,
+            "Description": "The vegetated walkway along the creek provides a desirable thermal environment for urban residents and visitors to explore outdoors while minimizing their heat exposure.",
+            "Temp": 34,
+            "Humidity": 50
+        },
+        {
+            "Location": "Lexington Dr & Norwest Blvd",
+            "name": "snla1kb03",
+            "Lat": -33.73799,
+            "Lon": 150.95046,
+            "Description": "The intersection of Lexington Dr and Norwest Blvd is a high-traffic area with high concentration of industrial and commercial sites that significantly modify urban temperature.",
+            "Temp": 33,
+            "Humidity": 48
+        },
+        {
+            "Location": "Bella Vista Public School & Essentia",
+            "name": "snla1kb06",
+            "Lat": -33.72781,
+            "Lon": 150.95433,
+            "Description": "The intersection of Bella Vista Public School and Essentia urban development represents built areas with open low-rise local climate zones. Additionally, the characterization of the thermal environment near the school assist in quantifying heat exposure and the wellbeing of students.",
+            "Temp": 33,
+            "Humidity": 50
+        }
+       
+    ]
+}
